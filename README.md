@@ -2,7 +2,7 @@
 
 A Java and Brunel Visualization powered data visualization of employment by college major from 2011-2012.
 The dataset contained the employment status and college major of college graduates of all ages from 2011-2012. 
-<br>
+<br><br>
 Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirtyeight/data/master/college-majors/all-ages.csv
 <br><br>
 From this dataset, a bubble chart sorted by employment number and colored by major category (Computers & Mathematics, Education, Engineering, etc.) was made using the Brunel language. 
@@ -20,10 +20,10 @@ Brunel Command: <br>
 <br>
 <br>
 Another similar program was made in marvel.java where a data visualization was made with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. 
-<br>
+<br><br>
 Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirtyeight/data/master/comic-characters/marvel-wikia-data.csv
 <br><br>
-![alt tag](https://github.com/chrisnguyenhi/brunelvis/blob/master/marvel.png)
+![alt tag](https://github.com/chrisnguyenhi/brunelvis/blob/master/large.png)
 <br>
 <br>
 <br>Try these commands on Brunel Visualization 2.0: http://brunel.mybluemix.net/gallery_app/renderer
