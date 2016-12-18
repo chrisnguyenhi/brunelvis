@@ -20,14 +20,14 @@ Brunel Command: <br>
 <br>
 **Marvel Characters by Appearance**
 <br>
-Another similar program was made in marvel.java where a data visualization was made with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. 
+A similar data visualization was made in ``marvel.java`` with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. This visualization was a bubble chart of appearances colored by the character's allignment (good, evil, neutral, ?). The larger the bubble, the more the number of appearances.
 <br><br>
 Dataset courtesy of FiveThirtyEight: https://raw.githubusercontent.com/fivethirtyeight/data/master/comic-characters/marvel-wikia-data.csv
 <br><br>
 ![alt tag](https://github.com/chrisnguyenhi/brunelvis/blob/master/large.png)
 <br>
 <br>
-<br>Try these commands on Brunel Visualization 2.0: http://brunel.mybluemix.net/gallery_app/renderer
+<br>Try Brunel Visualization 2.0: http://brunel.mybluemix.net/gallery_app/renderer
 <br>Download Brunel from Java: https://github.com/Brunel-Visualization/Brunel/releases
 
 
