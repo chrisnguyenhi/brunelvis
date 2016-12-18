@@ -10,7 +10,6 @@ The larger the bubble, the higher the employment number is for each major.
 <br><br>
 ![alt tag](https://github.com/chrisnguyenhi/brunelvis/blob/master/output.png)
 <br>
-<p align="center"></p>
 This program is written in Java using Brunel 2.0. After compiling, the program creates a html file containing the visualization results. 
 <br><br>
 Brunel Command: <br>
@@ -18,6 +17,8 @@ Brunel Command: <br>
 ``
 <br>
 <br>
+<br>
+<p align="center">**Marvel Characters by Appearance**</p>
 <br>
 Another similar program was made in marvel.java where a data visualization was made with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. 
 <br><br>
