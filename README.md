@@ -18,7 +18,7 @@ Brunel Command: <br>
 <br>
 <br>
 <br>
-<p align="center">**Marvel Characters by Appearance**</p>
+**Marvel Characters by Appearance**
 <br>
 Another similar program was made in marvel.java where a data visualization was made with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. 
 <br><br>
