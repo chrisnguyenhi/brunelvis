@@ -18,7 +18,7 @@ Brunel Command: <br>
 <br>
 <br>
 <br>
-**Marvel Characters by Appearance**
+###Marvel Characters by Appearance
 <br>
 A similar data visualization was made in ``marvel.java`` with a much larger dataset containing the information of Marvel Characters found on Marvel Wikia. This visualization was a bubble chart of appearances colored by the character's allignment (good, evil, neutral, ?). The larger the bubble, the more the number of appearances.
 <br><br>
